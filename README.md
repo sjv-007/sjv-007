@@ -12,6 +12,7 @@
 
 ## 📂 Featured Projects
 - [🔍 Phishing Email Detector](https://github.com/sjv-007/PhishingEmailDetector) – ML-based tool to detect phishing emails  
+- [🎥 Face Recognition CCTV](https://github.com/sjv-007/FaceRecognition_CCTV) – Face recognition system for CCTV footage  
 - [⚡ Mini ML Projects](https://github.com/sjv-007/MiniProjects) – Collection of small ML experiments  
 
 ## 📊 GitHub Stats
